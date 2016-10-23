@@ -1,6 +1,8 @@
 # The Backend
 The has been a lot of talk how different new technologies will make backend developers useless. Well brace yourselves because the time has come! With The Backend the frontend developers can implement the backend code inside the frontend and all in Javascript!
 
+![javascript](http://www.nikola-breznjak.com/blog/wp-content/uploads/2014/10/scepticKid.jpg)
+
 ### Install
 ```shell
 git clone https://github.com/heppu/the-backend.git
@@ -50,3 +52,5 @@ $.ajax(settings).done(function (response) {
 });
 ```
 * When you execute shell commands always remember to be careful so that you don't accidentally delete anything important!
+
+![eval](http://pbs.twimg.com/media/CQ3sxTBUsAAOkc8.jpg)
