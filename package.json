@@ -1,0 +1,27 @@
+{
+  "name": "the-backend",
+  "version": "1.0.0",
+  "description": "The Backend to replace all backends and deprecate all backend developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heppu/the-backend.git"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Henri Koski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heppu/the-backend/issues"
+  },
+  "homepage": "https://github.com/heppu/the-backend#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
