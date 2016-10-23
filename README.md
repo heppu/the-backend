@@ -1,5 +1,5 @@
 # The Backend
-The has been a lot of talk how different new technologies will make backend developers useless. Well brace yourselves because the time has come! With **The Backend** the frontend developers can implement the backend code inside the frontend and all in Javascript!
+There has been a lot of talk how different new technologies will make backend developers useless. Well brace yourselves because the time has come! With **The Backend** the frontend developers can implement the backend code inside the frontend and all in Javascript!
 
 ![javascript](http://www.nikola-breznjak.com/blog/wp-content/uploads/2014/10/scepticKid.jpg)
 
